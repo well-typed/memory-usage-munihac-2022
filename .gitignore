@@ -1,0 +1,7 @@
+dist-newstyle
+hiobe_backup.db
+*.eventlog
+*.snapshot
+*.hp
+*.html
+.DS_Store
